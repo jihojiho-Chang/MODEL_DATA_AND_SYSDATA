@@ -1,0 +1,200 @@
+
+
+//************* Model DATA *************//
+[SCAN DATA]
+ACC/DEC OFFSET=30.000000
+Scan Count=10
+Scan Overlap=32.000000
+
+[Confocal]
+Confocal First =205.000000
+Confocal Center = 156.800
+Confocal Final =105.000000
+Pixel First =10270.000000
+Pixel Center = 40785
+Pixel Final =71300.000000
+Confocal Teaching Data Ch1 =2.560000
+Confocal Teaching Data Ch2 =5.804000
+Confocal Teaching Data End Ch1 =16.289000
+Confocal Teaching Data End Ch2 =15.700000
+Confocal Teaching Count =70.000000
+
+[Model Data]
+Pellicle Size X=10.000000
+Pellicle Size Y=10.000000
+Inspection Part =2
+Inspection Light =0
+
+[Snap Shot]
+Snap StartPos BZ =3.000000
+
+[Grab]
+Top Grab Start Pos TZ =6343.000000
+BTM Grab Start Pos BZ =5500.000000
+
+[Inspection_InspectionTeaching]
+InspectionAreaRectCount=0
+InspectionArea_00=590,28288,1267,28704
+InspectionArea_00_m_nWhichSide=0
+InspectionArea_00_m_nWhichInspArea=0
+InspectionArea_01=4384,25105,1712,28649
+InspectionArea_01_m_nWhichSide=1
+InspectionArea_01_m_nWhichInspArea=0
+
+
+
+
+
+
+[Inspection Threshold]
+TopStitchBndryGrayTh=45
+BottomStitchBndryGrayTh=75
+TopGrayTh=232
+BottomGrayTh=238
+CTopGrayTh=162
+CBottomGrayTh=163
+TopDefectMinSize=1
+BottomDefectMinSize=1
+
+
+TopStandardPos_X=328.812134
+TopStandardPos_Y=1404.711426
+TopStandardPosRect=164,493,1240,1569
+BottomStandardPos_X=232.942963
+BottomStandardPos_Y=1952.095093
+BottomStandardPosRect=222,242,1942,1962
+BottomInspRect=13372,16008,14899,16075
+TopMarkArea =995,255,5152,2966
+BtmMarkArea =817,164,29673,5147
+TopDeffectTh=2500
+BottomDeffectTh=2500
+CTopDeffectTh=5500
+CBottomDeffectTh=5500
+TopEndPos=29417
+TopOffsetX=11100
+TopOffsetY=12900
+BottomEndPos=29075
+BottomOffsetX=9300
+BottomOffsetY=13000
+TopDontCareRectOffset =1000
+BottomDontCareRectOffset =500
+TopRegionOffsetX=0
+TopRegionOffsetY=0
+BottomRegionOffsetX=0
+BottomRegionOffsetY=0
+Top360EdgeStartX=10
+Top360EdgeStartY=2500
+Top270EdgeStartX=3500
+Top270EdgeStartY=0
+Top360EdgeEndX=7375
+Top360EdgeEndY=5930
+Top270EdgeEndX=28000
+Top270EdgeEndY=2200
+Bottom360EdgeStartX=0
+Bottom360EdgeStartY=3000
+Bottom270EdgeStartX=3000
+Bottom270EdgeStartY=0
+Bottom360EdgeEndX=1000
+Bottom360EdgeEndY=4900
+Bottom270EdgeEndX=25153
+Bottom270EdgeEndY=2200
+
+BottomPelicle360EdgeStartX=3800
+BottomPelicle360EdgeStartY=4200
+BottomPelicle270EdgeStartX=7000
+BottomPelicle270EdgeStartY=2000
+BottomPelicle360EdgeEndX=4800
+BottomPelicle360EdgeEndY=5700
+BottomPelicle270EdgeEndX=20000
+BottomPelicle270EdgeEndY=2600
+
+
+TopStitchBndryGrayTh2=50
+BottomStitchBndryGrayTh2=50
+
+[Light Value]
+C Light Value=193
+S Light Value=186
+C Light Value2=249
+S Light Value2=248
+C Light Value3=0
+S Light Value3=0
+C Light Value4=120
+S Light Value4=200
+C Light Insp Top Value =100
+C Light Insp Btm Value =100
+Light Top Gray Value =40
+Light Btm Gray Value =40
+Light Top Side Gray Value =32
+Light Btm Side Gray Value =42
+Light Gray Value=17
+[RECIPE_PARAM]
+PAT_SCORE=50.000
+PAT_CERTAINTY_SCORE=70.000
+PAT_ANGLE_OPTION=0
+WAPS_USE=0
+WIRE_USE=0
+ACCURACY_USE=0
+BALL_USE=0
+POLLUTION_USE=0
+MLCC_USE=1
+DAF_USE=1
+VENTHOLE_USE=1
+SPACECHIPPOLLUTION_USE=1
+SPACECHIPACCURACY_USE=1
+INVERSE_USE=1
+CASCADE_USE=0
+ACCURACY_Shift_USE=0
+BALL_Pad_Ma_USE=0
+CAMERA_ANALOG_GAIN=0
+INVERSE_INSPECTION_NAME=
+[JOB_COPY]
+MASTER_PIXEL_RESOLUTION_X=0.000000
+MASTER_PIXEL_RESOLUTION_Y=0.000000
+[Area]
+CrossMarkArea=1668,1888,2060,2289
+CrossMarkScore=90.000000
+AreaNodieScore=0
+[Stitch Image_InspectionTeaching]
+
+InspectionAreaRectCount=0
+
+
+InspectionArea_00=24961,28931,2369,5784
+InspectionArea_00_m_nWhichSide=0
+InspectionArea_00_m_nWhichInspArea=0
+InspectionArea_01=4058,4363,1053,1447
+InspectionArea_01_m_nWhichSide=1
+InspectionArea_01_m_nWhichInspArea=1
+InspectionArea_02=24650,25115,1055,1551
+InspectionArea_02_m_nWhichSide=1
+InspectionArea_02_m_nWhichInspArea=1
+InspectionArea_03=4124,4280,27396,27557
+InspectionArea_03_m_nWhichSide=1
+InspectionArea_03_m_nWhichInspArea=1
+InspectionArea_04=24608,25115,27058,27554
+InspectionArea_04_m_nWhichSide=1
+InspectionArea_04_m_nWhichInspArea=1
+InspectionArea_05=23899,24117,18040,18204
+InspectionArea_05_m_nWhichSide=1
+InspectionArea_05_m_nWhichInspArea=0
+
+
+InspectionArea_06=15030,15130,12936,12985
+InspectionArea_06_m_nWhichSide=1
+InspectionArea_06_m_nWhichInspArea=0
+InspectionArea_07=24384,24502,18049,18263
+InspectionArea_07_m_nWhichSide=1
+InspectionArea_07_m_nWhichInspArea=0
+InspectionArea_08=23899,24117,18040,18204
+InspectionArea_08_m_nWhichSide=1
+InspectionArea_08_m_nWhichInspArea=0
+InspectionArea_09=23899,24117,18040,18204
+InspectionArea_09_m_nWhichSide=1
+InspectionArea_09_m_nWhichInspArea=0
+InspectionArea_10=14281,14457,13245,13346
+InspectionArea_10_m_nWhichSide=1
+InspectionArea_10_m_nWhichInspArea=0
+InspectionArea_11=15438,15637,12043,12148
+InspectionArea_11_m_nWhichSide=1
+InspectionArea_11_m_nWhichInspArea=0

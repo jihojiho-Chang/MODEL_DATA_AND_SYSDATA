@@ -1,0 +1,28 @@
+/
+/
+/
+[CAMERA_NAME]
+Generic Device
+[CONFIG_FILE]
+50CF
+RAPIXOCXP
+Tuesday, February 11, 2025 17:59:10
+[INFO_FILE_REV]
+10.60.0708.8063
+RAPIXOCXP
+[REG_DIGIT]
+INFO_TYPE                                                             1
+[STANDARD_FEATURES]
+ENUM_TriggerMode                                                      "On"
+ENUM_TriggerSource                                                    "CXPin"
+ENUM_TriggerActivation                                                "RisingEdge"
+ENUM_TriggerRescalerMode                                              "Off"
+ENUM_OperationMode                                                    "TDI"
+ENUM_ScanDirection                                                    "Forward"
+FLOAT_AcquisitionLineRate                                             "44000"
+[STANDARD_FEATURES_DIGITIZER]
+ENUM_f_DigIOSignalSource_Selector                                     "M_TL_TRIGGER"
+ENUM_M_IO_SOURCE                                                      "M_AUX_IO4"
+INT_M_SOURCE_SIZE_Y                                                   "1024"
+ENUM_M_GRAB_MODE                                                      "M_ASYNCHRONOUS"
+[EOF]
